@@ -1,19 +1,61 @@
-<h1 align="center">Hi 👋, I'm Rui Pina</h1>
-<h3 align="center">A passionate backend developer from Portugal</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruiriopina&label=Profile%20views&color=0e75b6&style=flat" alt="ruiriopina" /> </p>
+# Hi there, I'm Rui Pina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- 🌱 I’m currently learning **Javascript**
+<!--- Brief description ---> 
+:computer: BSc in Informatics and Computing Engineering (year 3/3) [@ISEP](https://www.isep.ipp.pt/) <br />
+:telescope: I’m currently interested in picking up Javascript, React and diving in some open source and personal projects <br />
+:seedling: I'm a tech enthusiast and an avid fan of Linux. <br />
+:sparkles: I also like to play the trombone and jog in my free time <br />
 
-- 📫 How to reach me **ruiriopina02@gmail.com**
+<!--- Github and mail:to ---> 
+<a href="https://www.linkedin.com/in/rui-pina-9a58721b3/">
+  <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
+</a>
+<a href="mailto:ruiriopina02@gmail.com?cc=ruiriopina02@gmail.com">
+  <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+</a>
+
+
+
+## :wrench: Technologies and tools 
+
+<p>
+  
+  <!--- OS ---> 
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+    
+  <!--- Tools --->   
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+
+  <!--- Editors --->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  
+  <!--- Programming languages --->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruiriopina&show_icons=true&locale=en&layout=compact" alt="ruiriopina" /></p>
+## &#x1f4c8; GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruiriopina&show_icons=true&locale=en" alt="ruiriopina" /></p>
+|<a href="https://github.com/RuiRioPina"><img align="center" alt="Rui Pina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RuiRioPina&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="rui pina's GitHub Stats"/></a>|<a href="https://github.com/RuiRioPina"><img align="center" alt="Rui Pina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiRioPina&hide=html&theme=dark&show_icons=true&layout=compact&hide_border=true&line_height=27" alt="rui pina's GitHub Stats"/></a> |
+| ------------- | ------------- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruiriopina&" alt="ruiriopina" /></p>
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- MartinHeinz GitHub Profile README:: https://github.com/MartinHeinz/ -->
+<!-- 📛 Awesome Badges :: https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
