@@ -6,8 +6,6 @@
 :seedling: I'm a tech enthusiast and an avid fan of Linux. <br />
 :sparkles: I also like to play the trombone and jog in my free time <br />
 
-## You can find more about me on my website at [ruipina.netlify.app](https://ruipina.netlify.app/)
-
 
 
 <!--- Github and mail:to ---> 
