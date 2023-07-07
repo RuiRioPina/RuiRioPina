@@ -1,8 +1,8 @@
 # Hi there, I'm Rui Pina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <!--- Brief description ---> 
-:computer: BSc in Informatics and Computing Engineering (year 3/3) [@ISEP](https://www.isep.ipp.pt/) <br />
-:telescope: I’m currently interested in picking up Javascript, React and diving in some open source and personal projects <br />
+:computer: BSc in Informatics and Computing Engineering [@ISEP](https://www.isep.ipp.pt/) <br />
+:telescope: I’m currently interested in Javascript, React and diving in some open source and personal projects <br />
 :seedling: I'm a tech enthusiast and an avid fan of Linux. <br />
 :sparkles: I also like to play the trombone and jog in my free time <br />
 
