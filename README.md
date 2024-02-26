@@ -3,7 +3,7 @@
 <!--- Brief description ---> 
 :computer: I'm currently doing my MSc in Software Engineering [@ISEP](https://www.isep.ipp.pt/) <br />
 :computer: ✔️ Graduated BSc in Informatics Engineering [@ISEP](https://www.isep.ipp.pt/) <br />
-:telescope: I’m currently interested in Java, C#, everything about DevOps and diving in some open source and personal projects <br />
+:telescope: I’m currently interested in Cloud, everything about DevOps and diving in some open source and personal projects <br />
 :seedling: I'm a tech enthusiast and an avid fan of Linux. <br />
 :sparkles: I also like to play the trombone and jog in my free time <br />
 
