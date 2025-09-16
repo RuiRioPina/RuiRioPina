@@ -1,21 +1,9 @@
 # Hi there, I'm Rui Pina! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <!--- Brief description ---> 
-:computer: I'm currently doing my MSc in Software Engineering [@ISEP](https://www.isep.ipp.pt/) <br />
+:computer: ✔️ Graduated MSc in Software Engineering [@ISEP](https://www.isep.ipp.pt/) <br />
 :computer: ✔️ Graduated BSc in Informatics Engineering [@ISEP](https://www.isep.ipp.pt/) <br />
-:telescope: I’m currently interested in Cloud, everything about DevOps and diving in some open source and personal projects <br />
-:seedling: I'm a tech enthusiast and an avid fan of Linux. <br />
-:sparkles: I also like to play the trombone and jog in my free time <br />
-
-
-
-<!--- Github and mail:to ---> 
-<a href="https://www.linkedin.com/in/rui-pina-9a58721b3/">
-  <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
-</a>
-<a href="mailto:ruiriopina02@gmail.com?cc=ruiriopina02@gmail.com">
-  <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
-</a>
+:telescope: I’m a maintainer of the CityLearn Open Source AI framework [CityLearn](https://github.com/intelligent-environments-lab/CityLearn)   <br />
 
 
 
