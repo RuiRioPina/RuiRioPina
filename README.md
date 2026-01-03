@@ -32,12 +32,6 @@
 
 </p>
 
-
-## &#x1f4c8; GitHub Stats
-
-|<a href="https://github.com/RuiRioPina"><img align="center" alt="Rui Pina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RuiRioPina&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="rui pina's GitHub Stats"/></a>|<a href="https://github.com/RuiRioPina"><img align="center" alt="Rui Pina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiRioPina&hide=html&theme=dark&show_icons=true&layout=compact&hide_border=true&line_height=27" alt="rui pina's GitHub Stats"/></a> |
-| ------------- | ------------- |
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
